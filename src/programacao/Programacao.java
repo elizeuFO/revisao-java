@@ -59,7 +59,7 @@ public class Programacao {
         double n5 = entrada.nextDouble();
         System.out.println("\nResultado");
         media5(n1, n2, n3, n4, n5);
-        System.out.println("");
+        System.out.println(""); 
     }
     
     private static void soma(double n1, double n2){
